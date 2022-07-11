@@ -1,4 +1,4 @@
-# Arqui -TPE
+# TPE
 
 Alumnos:
 - Lucas Dell'Isola
